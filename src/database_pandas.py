@@ -13,8 +13,6 @@
 
     The dataframe will be stored in a csv file
 
-Author: Anubhav
-Date: 24/02/2023
 '''
 
 import time
