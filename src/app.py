@@ -1,8 +1,6 @@
 '''A Flask application to run the face recognition app using dlib and OpenCV on stored video or
 IP cam stream
 
-Authors: Anubhav Patrick
-Date: 21/02/2023 
 '''
     
 import os.path
