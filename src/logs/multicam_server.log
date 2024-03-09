@@ -1,0 +1,190 @@
+2023-03-18 01:07:22 - INFO -  Camera stream from cam1 (url: http://192.168.1.13:4747/video) initialized
+2023-03-19 21:25:40 - ERROR -  Camera stream from cam1 (url: http://192.168.12.10:4747/video)) unable to initialize
+2023-03-19 21:26:30 - INFO -  Camera stream from cam1 (url: http://192.168.1.13:4747/video) initialized
+2023-03-19 21:26:59 - ERROR -  Could not read a frame from the camera stream from cam1 (url: http://192.168.1.13:4747/video)). Releasing the stream...
+2023-03-19 21:57:32 - INFO -  Camera stream from cam1 (url: http://192.168.1.13:4747/video) initialized
+2023-03-19 22:28:34 - INFO -  Camera stream from cam1 (url: http://192.168.1.13:4747/video) initialized
+2023-03-19 22:29:18 - ERROR -  Could not read a frame from the camera stream from cam1 (url: http://192.168.1.13:4747/video)). Releasing the stream...
+2023-03-19 22:29:45 - ERROR -  Camera stream from cam1 (url: http://192.168.1.13:4747/video)) unable to initialize
+2023-03-19 22:30:11 - INFO -  Camera stream from cam1 (url: http://192.168.1.13:4747/video) initialized
+2023-03-19 22:30:34 - ERROR -  Could not read a frame from the camera stream from cam1 (url: http://192.168.1.13:4747/video)). Releasing the stream...
+2023-03-19 22:49:25 - INFO -  Camera stream from cam1 (url: http://192.168.1.13:4747/video) initialized
+2023-03-19 22:50:19 - ERROR -  Could not read a frame from the camera stream from cam1 (url: http://192.168.1.13:4747/video)). Releasing the stream...
+2023-03-19 22:50:26 - INFO -  Camera stream from cam1 (url: http://192.168.1.13:4747/video) initialized
+2023-03-19 22:50:53 - ERROR -  Could not read a frame from the camera stream from cam1 (url: http://192.168.1.13:4747/video)). Releasing the stream...
+2023-03-20 00:21:31 - INFO -  Camera stream from cam1 (url: http://192.168.1.13:4747/video) initialized
+2023-03-20 00:22:44 - INFO -  Camera stream from cam1 (url: http://192.168.1.13:4747/video) initialized
+2023-03-20 00:23:22 - ERROR -  Could not read a frame from the camera stream from cam1 (url: http://192.168.1.13:4747/video)). Releasing the stream...
+2023-03-20 00:36:49 - INFO -  Camera stream from cam1 (url: http://192.168.1.13:4747/video) initialized
+2023-03-20 00:36:59 - INFO -  Time taken for batch processing of 1 frames = 9.273372411727905 seconds
+2023-03-20 00:37:08 - INFO -  Time taken for batch processing of 1 frames = 9.126541376113892 seconds
+2023-03-20 00:37:17 - INFO -  Time taken for batch processing of 1 frames = 9.078011989593506 seconds
+2023-03-20 00:37:26 - INFO -  Time taken for batch processing of 1 frames = 9.367533683776855 seconds
+2023-03-20 00:37:36 - INFO -  Time taken for batch processing of 1 frames = 9.779560804367065 seconds
+2023-03-20 00:37:45 - INFO -  Time taken for batch processing of 1 frames = 9.220983982086182 seconds
+2023-03-20 00:37:55 - INFO -  Time taken for batch processing of 1 frames = 9.707667112350464 seconds
+2023-03-20 00:38:04 - INFO -  Time taken for batch processing of 1 frames = 9.215202331542969 seconds
+2023-03-20 00:38:14 - INFO -  Time taken for batch processing of 1 frames = 9.482505798339844 seconds
+2023-03-20 00:38:23 - INFO -  Time taken for batch processing of 1 frames = 9.60979151725769 seconds
+2023-03-20 00:38:33 - ERROR -  Camera stream from cam1 (url: http://192.168.1.13:4747/video)) unable to initialize
+2023-03-20 00:38:33 - INFO -  Camera streams released
+2023-03-20 00:38:33 - INFO -  Dataframe stored in csv file
+2023-03-20 00:38:33 - INFO -  Dataframe stored in csv
+2023-03-20 00:38:33 - INFO -  Exiting the program
+2023-03-20 01:23:03 - INFO -  Camera stream from cam1 (url: http://192.168.1.13:4747/video) initialized
+2023-03-20 01:23:12 - INFO -  Time taken for batch processing of 1 frames = 9.031386613845825 seconds
+2023-03-20 01:23:22 - INFO -  Time taken for batch processing of 1 frames = 9.898799657821655 seconds
+2023-03-20 01:23:31 - ERROR -  Camera stream from cam1 (url: http://192.168.1.13:4747/video)) unable to initialize
+2023-03-20 01:23:31 - INFO -  Camera streams released
+2023-03-20 01:23:31 - INFO -  Dataframe stored in csv file
+2023-03-20 01:23:31 - INFO -  Dataframe stored in csv
+2023-03-20 01:23:31 - DEBUG -  Making request: POST https://oauth2.googleapis.com/token
+2023-03-20 01:23:31 - DEBUG -  Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-03-20 01:23:32 - DEBUG -  https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-03-20 01:23:32 - INFO -  file_cache is only supported with oauth2client<4.0.0
+2023-03-20 01:23:32 - INFO -  Dataframe stored in csv file
+2023-03-20 01:23:32 - DEBUG -  URL being requested: POST https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json
+2023-03-20 01:23:32 - INFO -  Email successfully sent. Message Id: 186fb6f2dd9ea6c5
+2023-03-20 01:23:32 - INFO -  Exiting the program
+2023-03-20 01:23:38 - ERROR -  Could not read a frame from the camera stream from cam1 (url: http://192.168.1.13:4747/video)). Releasing the stream...
+2023-03-20 02:58:33 - INFO -  [INFO] loading encodings...
+2023-03-20 02:58:35 - INFO -  Camera stream from cam1 (url: http://192.168.1.13:4747/video) initialized
+2023-03-20 02:59:15 - ERROR -  Camera stream from cam1 (url: http://192.168.1.13:4747/video)) unable to initialize
+2023-03-20 02:59:15 - INFO -  Camera streams released
+2023-03-20 02:59:15 - INFO -  Dataframe stored in csv file
+2023-03-20 02:59:15 - INFO -  Dataframe stored in csv
+2023-03-20 02:59:15 - DEBUG -  Making request: POST https://oauth2.googleapis.com/token
+2023-03-20 02:59:15 - DEBUG -  Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2023-03-20 02:59:16 - DEBUG -  https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2023-03-20 02:59:16 - INFO -  file_cache is only supported with oauth2client<4.0.0
+2023-03-20 02:59:16 - INFO -  Dataframe stored in csv file
+2023-03-20 02:59:16 - DEBUG -  URL being requested: POST https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json
+2023-03-20 02:59:16 - INFO -  Email successfully sent. Message Id: 186fbc6d35226dde
+2023-03-20 02:59:16 - INFO -  Exiting the program
+2023-03-20 02:59:52 - INFO -  [INFO] loading encodings...
+2023-03-20 02:59:55 - INFO -  Camera stream from cam1 (url: http://192.168.1.13:4747/video) initialized
+2023-03-20 03:00:05 - INFO -  Time taken for batch processing of 1 frames = 10.010287761688232 seconds
+2023-03-20 03:00:14 - INFO -  Time taken for batch processing of 1 frames = 8.946800231933594 seconds
+2023-03-20 03:00:23 - INFO -  Time taken for batch processing of 1 frames = 8.861829280853271 seconds
+2023-03-20 03:00:33 - INFO -  Time taken for batch processing of 1 frames = 9.983630180358887 seconds
+2023-03-20 03:00:42 - INFO -  Time taken for batch processing of 1 frames = 9.828506708145142 seconds
+2023-03-20 03:00:51 - INFO -  Time taken for batch processing of 1 frames = 9.116456985473633 seconds
+2023-03-20 03:01:01 - INFO -  Time taken for batch processing of 1 frames = 9.494580507278442 seconds
+2023-03-20 03:01:10 - ERROR -  Could not read a frame from the camera stream from cam1 (url: http://192.168.1.13:4747/video)). Releasing the stream...
+2023-03-20 03:01:22 - INFO -  [INFO] loading encodings...
+2023-03-20 03:01:24 - INFO -  Camera stream from cam1 (url: http://192.168.1.13:4747/video) initialized
+2023-03-20 03:01:33 - INFO -  Time taken for batch processing of 1 frames = 9.256329774856567 seconds
+2023-03-20 03:01:43 - INFO -  Time taken for batch processing of 1 frames = 9.35045576095581 seconds
+2023-03-20 03:01:52 - INFO -  Time taken for batch processing of 1 frames = 8.807925462722778 seconds
+2023-03-20 03:02:01 - INFO -  Time taken for batch processing of 1 frames = 9.370704174041748 seconds
+2023-03-20 03:02:10 - INFO -  Time taken for batch processing of 1 frames = 9.009265422821045 seconds
+2023-03-20 03:02:19 - INFO -  Time taken for batch processing of 1 frames = 9.100194454193115 seconds
+2023-03-20 03:02:30 - INFO -  Time taken for batch processing of 1 frames = 11.321402311325073 seconds
+2023-03-20 03:02:40 - ERROR -  Camera stream from cam1 (url: http://192.168.1.13:4747/video)) unable to initialize
+2023-03-20 03:02:40 - INFO -  Camera streams released
+2023-03-20 03:02:40 - INFO -  Dataframe stored in csv file
+2023-03-20 03:02:40 - INFO -  Dataframe stored in csv
+2023-03-20 03:02:40 - INFO -  file_cache is only supported with oauth2client<4.0.0
+2023-03-20 03:02:40 - INFO -  Dataframe stored in csv file
+2023-03-20 03:02:40 - DEBUG -  URL being requested: POST https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json
+2023-03-20 03:02:41 - INFO -  Email successfully sent. Message Id: 186fbc9f17e12f51
+2023-03-20 03:02:41 - INFO -  Exiting the program
+2023-03-20 03:02:45 - ERROR -  Could not read a frame from the camera stream from cam1 (url: http://192.168.1.13:4747/video)). Releasing the stream...
+2023-03-20 03:02:53 - INFO -  [INFO] loading encodings...
+2023-03-20 03:02:53 - ERROR -  Camera stream from cam1 (url: http://192.168.1.13:4747/video)) unable to initialize
+2023-03-20 03:03:11 - INFO -  [INFO] loading encodings...
+2023-03-20 03:03:12 - INFO -  Camera stream from cam1 (url: http://192.168.1.13:4747/video) initialized
+2023-03-20 03:03:22 - INFO -  Time taken for batch processing of 1 frames = 9.452537536621094 seconds
+2023-03-20 03:03:31 - INFO -  Time taken for batch processing of 1 frames = 9.134531259536743 seconds
+2023-03-20 03:03:41 - INFO -  Time taken for batch processing of 1 frames = 9.503129959106445 seconds
+2023-03-20 03:03:50 - INFO -  Time taken for batch processing of 1 frames = 8.938351154327393 seconds
+2023-03-20 03:03:59 - ERROR -  Camera stream from cam1 (url: http://192.168.1.13:4747/video)) unable to initialize
+2023-03-20 03:03:59 - INFO -  Camera streams released
+2023-03-20 03:03:59 - INFO -  Dataframe stored in csv file
+2023-03-20 03:03:59 - INFO -  Dataframe stored in csv
+2023-03-20 03:03:59 - INFO -  file_cache is only supported with oauth2client<4.0.0
+2023-03-20 03:03:59 - INFO -  Dataframe stored in csv file
+2023-03-20 03:03:59 - DEBUG -  URL being requested: POST https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json
+2023-03-20 03:04:36 - INFO -  [INFO] loading encodings...
+2023-03-20 03:04:43 - INFO -  [INFO] loading encodings...
+2023-03-20 03:04:44 - INFO -  Camera stream from cam1 (url: http://192.168.1.13:4747/video) initialized
+2023-03-20 03:04:54 - INFO -  Time taken for batch processing of 1 frames = 9.616916179656982 seconds
+2023-03-20 03:05:04 - ERROR -  Camera stream from cam1 (url: http://192.168.1.13:4747/video)) unable to initialize
+2023-03-20 03:05:04 - INFO -  Camera streams released
+2023-03-20 03:05:04 - INFO -  Dataframe stored in csv file
+2023-03-20 03:05:04 - INFO -  Dataframe stored in csv
+2023-03-20 03:05:04 - INFO -  file_cache is only supported with oauth2client<4.0.0
+2023-03-20 03:05:04 - INFO -  Dataframe stored in csv file
+2023-03-20 03:05:04 - DEBUG -  URL being requested: POST https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json
+2023-03-20 03:05:04 - INFO -  Email successfully sent. Message Id: 186fbcc207c05df7
+2023-03-20 03:05:04 - INFO -  Exiting the program
+2023-03-20 03:05:34 - INFO -  [INFO] loading encodings...
+2023-03-20 03:05:36 - INFO -  Camera stream from cam1 (url: http://192.168.1.13:4747/video) initialized
+2023-03-20 03:05:45 - INFO -  Time taken for batch processing of 1 frames = 9.162269353866577 seconds
+2023-03-20 03:05:55 - INFO -  Time taken for batch processing of 1 frames = 9.399820566177368 seconds
+2023-03-20 03:06:04 - INFO -  Time taken for batch processing of 1 frames = 9.187567472457886 seconds
+2023-03-20 03:06:13 - INFO -  Time taken for batch processing of 1 frames = 8.797074317932129 seconds
+2023-03-20 03:06:22 - INFO -  Time taken for batch processing of 1 frames = 9.350497722625732 seconds
+2023-03-20 03:06:31 - ERROR -  Camera stream from cam1 (url: http://192.168.1.13:4747/video)) unable to initialize
+2023-03-20 03:06:31 - INFO -  Camera streams released
+2023-03-20 03:06:31 - INFO -  Dataframe stored in csv file
+2023-03-20 03:06:31 - INFO -  Dataframe stored in csv
+2023-03-20 03:06:31 - INFO -  file_cache is only supported with oauth2client<4.0.0
+2023-03-20 03:06:31 - INFO -  Dataframe stored in csv file
+2023-03-20 03:06:31 - DEBUG -  URL being requested: POST https://gmail.googleapis.com/gmail/v1/users/me/messages/send?alt=json
+2023-03-20 03:06:32 - INFO -  Email successfully sent. Message Id: 186fbcd772fc48ea
+2023-03-20 03:06:32 - INFO -  Exiting the program
+2023-03-21 10:27:48 - INFO -  [INFO] loading encodings...
+2023-03-21 10:27:52 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-21 10:27:52 - INFO -  [33mPress CTRL+C to quit[0m
+2023-03-21 10:29:55 - INFO -  127.0.0.1 - - [21/Mar/2023 10:29:55] "GET / HTTP/1.1" 200 -
+2023-03-21 10:29:56 - INFO -  127.0.0.1 - - [21/Mar/2023 10:29:56] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2023-03-21 10:29:58 - INFO -  127.0.0.1 - - [21/Mar/2023 10:29:58] "GET /video_raw HTTP/1.1" 200 -
+2023-03-21 10:30:01 - INFO -  127.0.0.1 - - [21/Mar/2023 10:30:01] "GET /video_processed HTTP/1.1" 200 -
+2023-03-21 10:30:15 - INFO -  127.0.0.1 - - [21/Mar/2023 10:30:15] "POST /submit HTTP/1.1" 200 -
+2023-03-21 10:30:30 - INFO -  Dataframe stored in csv file
+2023-03-21 10:30:30 - INFO -  127.0.0.1 - - [21/Mar/2023 10:30:30] "POST /submit HTTP/1.1" 200 -
+2023-03-31 17:05:39 - INFO -  [INFO] loading encodings...
+2023-03-31 17:07:25 - INFO -  [INFO] loading encodings...
+2023-03-31 17:07:50 - INFO -  [INFO] loading encodings...
+2023-03-31 17:08:56 - INFO -  [INFO] loading encodings...
+2023-03-31 17:08:56 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-31 17:08:56 - INFO -  [33mPress CTRL+C to quit[0m
+2023-03-31 17:10:00 - INFO -  [INFO] loading encodings...
+2023-03-31 17:10:00 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-31 17:10:00 - INFO -  [33mPress CTRL+C to quit[0m
+2023-03-31 17:10:55 - INFO -  [INFO] loading encodings...
+2023-03-31 17:10:55 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-31 17:10:55 - INFO -  [33mPress CTRL+C to quit[0m
+2023-03-31 17:12:43 - INFO -  [INFO] loading encodings...
+2023-03-31 17:12:43 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-31 17:12:43 - INFO -  [33mPress CTRL+C to quit[0m
+2023-03-31 17:13:55 - INFO -  [INFO] loading encodings...
+2023-03-31 17:13:55 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-31 17:13:55 - INFO -  [33mPress CTRL+C to quit[0m
+2023-03-31 17:14:40 - INFO -  [INFO] loading encodings...
+2023-03-31 17:14:40 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-03-31 17:14:40 - INFO -  [33mPress CTRL+C to quit[0m
+2023-09-17 20:55:13 - INFO -  [INFO] loading encodings...
+2023-09-18 11:54:22 - INFO -  [INFO] loading encodings...
+2023-09-18 11:58:31 - INFO -  [INFO] loading encodings...
+2023-09-18 11:59:01 - INFO -  [INFO] loading encodings...
+2023-09-18 11:59:48 - INFO -  [INFO] loading encodings...
+2023-09-18 12:00:59 - INFO -  [INFO] loading encodings...
+2023-09-18 12:05:31 - INFO -  [INFO] loading encodings...
+2023-09-18 12:05:31 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-18 12:05:31 - INFO -  [33mPress CTRL+C to quit[0m
+2023-09-18 12:13:14 - INFO -  [INFO] loading encodings...
+2023-09-18 12:13:14 - INFO -  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2023-09-18 12:13:14 - INFO -  [33mPress CTRL+C to quit[0m
+2024-03-09 14:48:35 - INFO -  [INFO] loading encodings...
+2024-03-09 14:59:06 - INFO -  [INFO] loading encodings...
