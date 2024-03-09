@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-@Original Author: abhilash
-@Modified by: Anubhav Patrick
+This Module recognises faces in the video frames.
+
 """
 
 #importing the required libraries
